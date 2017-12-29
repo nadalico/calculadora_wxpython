@@ -87,49 +87,6 @@ class Calculadora(CalculadoraUI):
   		self.resultado.SetValue(str(self.total))
   		self.string = ""
 
-		#self.resultado.SetValue("0")
-	"""
-	def onBtn2( self, event ):
-		pass """
-
-	
-	"""
-	def onBtn3( self, event ):
-		pass
-
-	def onBtn4( self, event ):
-	print "pulsamos el 7"
-
-	def onBtn5( self, event ):
-	print "pulsamos el 7"
-
-	def onBtn6( self, event ):
-	print "pulsamos el 7"
-
-	def onBtn7( self, event ):
-	print "pulsamos el 7"
-
-	def onBtn8( self, event ):
-	print "pulsamos el 7"
-
-	def onBtn9( self, event ):
-	print "pulsamos el 7"
-
-	def onBtnDecimal( self, event ):
-	print "pulsamos el 7"
-
-	def onBtnIgual( self, event ):
-	print "pulsamos el 7"
-
-	def onBtnDividir( self, event ):
-	print "pulsamos el 7"
-
-	def onBtnRestar( self, event ):
-		print "pulsamos el 7
-
-	def onBtnMultiplicar( self, event ):
-	print "pulsamos el 7"""
-
 if __name__ == '__main__':
 
     app = wx.PySimpleApp()
